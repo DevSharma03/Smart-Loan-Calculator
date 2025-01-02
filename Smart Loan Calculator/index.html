@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <h1 class="header-heading" style="font-size: 35px;">
+            Smart Loan Calculator
+        </h1>
+        <p class="hearder-para" style="font-size: 20px;">
+            Calculate you monthly payment and total interest easily
+        </p>
+    </header>
+    <main>
+        <section class="detail-extractor">
+            <label for="">Loan Amount (Rs)</label>
+            <input type="number" id="inputAmount" placeholder="Enter the Amount">    
+            <br>
+            <label for="">Annual Interest Rate</label>
+            <input type="number" id="inputInterest" placeholder="Enter the Interest Rate">
+            <br>
+            <label for="">Loan Team (Years)</label>
+            <input type="number" id="inputYear" placeholder="Enter the No. Years">
+            <button class="calculateResult">Calculate  Loan Details</button>
+        </section>
+        <section class="result" style="padding-top: 20px;">
+            <h2 style="font-size: 48px; margin:25px;">Load Summary</h2>
+            <div class="monthly-payment">
+                <h4>Monthly Payment</h4>
+                <p class="result-monthly-payment">
+                    Rs. 0.00
+                </p>
+            </div>
+            <div class="total-payment">
+                <h4>Total Payment</h4>
+                <p class="result-total-payment">
+                    Rs. 0.00
+                </p>
+            </div>
+            <div class="total-interest">
+                <h4>Total Interest</h4>
+                <p class="result-total-interest">
+                    Rs. 0.00
+                </p>
+            </div>
+        </section>
+    </main>
+</body>
+<script src="index.js"></script>
+</html>
