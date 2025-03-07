@@ -46,7 +46,7 @@ For a **₹5,00,000 loan** at **7% annual interest** for **5 years**:
 
 ---
 
-## 🛠️ Installation & Usage  
+## 🛠️ Installation & Usage
 
 💻 **Run Locally** (No dependencies required! Just open in a browser)  
 
