@@ -52,7 +52,7 @@ For a **₹5,00,000 loan** at **7% annual interest** for **5 years**:
 
 ### 🔹 Option 1: Download & Open  
 1. **Download** the repository as a ZIP  
-2. Extract the files and open `index.html` in a browser  
+2. Extract the files and open `index.html` in a browser 
 
 ### 🔹 Option 2: Clone via Git  
 ```sh
