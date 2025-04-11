@@ -14,17 +14,6 @@ A **Smart Loan Calculator** built using **HTML, CSS, and JavaScript** that helps
 
 ---
 
-## 🎥 Demo  
-
-🔗 **Live Demo:** [Click Here](https://your-live-demo-link.com) _(Replace with actual link)_  
-
-🖼 **Screenshots:**  
-
-![Loan Calculator UI](https://your-image-link.com)  
-_(Replace with an actual screenshot)_
-
----
-
 ## 📜 How It Works  
 
 The **Smart Loan Calculator** uses the **Equated Monthly Installment (EMI)** formula:  
