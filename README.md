@@ -45,4 +45,5 @@ For a **₹5,00,000 loan** at **7% annual interest** for **5 years**:
 
 ### 🔹 Option 2: Clone via Git  
 ```sh
-git clone https://github.com/your-username/smart-loan-calc
+git clone https://github.com/DevSharma03/Smart-Loan-Calculator
+
